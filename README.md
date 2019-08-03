@@ -1,2 +1,5 @@
 # aws-key-check
-Simple shell script to check if an AWS key and secret are valid or not.
+Super simple shell script to check if an AWS key and secret are valid or not.
+
+# Usage
+./aws-key-check <key> <secret>
